@@ -1,40 +1,5 @@
 # Executable files
 *.exe
-*.out
-*.app
 
-# Object files
-*.o
-*.obj
-
-# Debug files
-*.dbg
-
-# Build folders
-build/
-bin/
-out/
-
-# VS Code
+# VS Code settings
 .vscode/
-
-# CodeBlocks
-bin/
-obj/
-
-# CMake
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*.temp
-
-# OS files
-.DS_Store
-Thumbs.db
